@@ -2,8 +2,6 @@
 
 高对比黑 / 绿 / 白 / 浅绿 / 浅灰。白底绿茶，线条清晰，布局克制，过渡丝滑。
 
-<img src="https://github.com/kaka77/green-tea-gitea/blob/main/demo.png?raw=true" width="700px">
-
 
 ## 安装
 
