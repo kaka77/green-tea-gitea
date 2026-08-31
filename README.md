@@ -1,6 +1,7 @@
 # 绿茶白底 · Gitea Theme
 
 高对比黑 / 绿 / 白 / 浅绿 / 浅灰。白底绿茶，线条清晰，布局克制，过渡丝滑。
+![效果演示图]([https://static.jyshare.com/images/runoob-logo.png)](https://github.com/kaka77/green-tea-gitea/blob/main/demo.png?raw=true)
 
 ## 安装
 
