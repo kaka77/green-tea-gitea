@@ -41,4 +41,3 @@
 ## 文件
 
 - `theme-green-tea.css` — 可直接部署的主题
-- `demo.html` — 独立预览（不依赖 Gitea）
